@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+	
+	char name[]="Hello, I am hema";
+	
+	printf("name is %s.\n",name);
+	
+	return 0;
+}
